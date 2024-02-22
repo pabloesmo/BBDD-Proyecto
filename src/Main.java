@@ -23,7 +23,7 @@ public class Main {
 
 		java.sql.Date sqlNewFinalDate = java.sql.Date.valueOf("1492-10-12");
 		
-		//Empleado e1 = new Empleado(7, null, "Pedro", "Quevedo", null, dbc, true);
+		//Empleado e1 = new Empleado(1, null, "Pedro", "Quevedo", null, dbc, true);
 		//Local l = new Local(3, false, "Perfumeria", "Goyard", dbc, true);		
 		//Trabaja t = new Trabaja(1, 1, sqlInitialDate, sqlNewFinalDate, dbc, true);
 		
@@ -31,9 +31,7 @@ public class Main {
 		//Local l1 = new Local(4, true, "jdwidj", "jdd", dbc, true);
 		//Trabaja t1 = new Trabaja(1, 2, sqlInitialDate, sqlNewFinalDate, dbc, true);
 		
-		//Trabaja t = new Trabaja(1, 1, sqlInitialDate, dbc, true);
-		
-		//Empleado e = new Empleado(6, dbc, true);
+
 		//Empleado e = new Empleado(3, "922 928", "Inserto", "en el", "mismo id", dbc, true);
 		
 		//System.out.println("Al inicio la sincronizacion es = " + e.DBSync);
